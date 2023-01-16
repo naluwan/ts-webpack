@@ -1,2 +1,2 @@
-## JS webpack BruceFE
+## Typescript webpack
 - 初始空專案
