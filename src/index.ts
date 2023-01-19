@@ -1,3 +1,3 @@
 import "./index.css";
 
-console.log("hello");
+import './ch05_3'
