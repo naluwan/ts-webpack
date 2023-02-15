@@ -1,3 +1,3 @@
 import "./index.css";
 
-import './ch06_5'
+import './ch06_6'
