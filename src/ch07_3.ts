@@ -48,4 +48,4 @@ type T3 = D extends C ? string : number
 // type R3 = N2<never>
 
 type TT4<T> = [T] extends ['naluwan'] ? string : number
-type R2 = TT4<'naluwan' | 'naluwan2'>
+// type R2 = TT4<'naluwan' | 'naluwan2'>
