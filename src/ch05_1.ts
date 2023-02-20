@@ -4,21 +4,21 @@
 // }
 
 // ts
-function get(a:number, b: string, c: boolean){
+function get(a: number, b: string, c: boolean) {
   return a + b
 }
 
 get(99, '', true)
 
 // ts function 可選參數
-function set(name: string, age?: string){
-  if(typeof age === 'string'){
+function set(name: string, age?: string) {
+  if (typeof age === 'string') {
     return age.split('')
   }
 }
 
 // return type
-function getNum(){
+function getNum() {
   return 100
 }
 
@@ -44,9 +44,9 @@ function getUserData(): never {
 }
 
 // void
-function hello() {
-  console.log('hello')
-}
+// function hello() {
+//   console.log('hello')
+// }
 
 // 構建函式
 // new
