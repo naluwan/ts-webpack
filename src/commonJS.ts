@@ -12,3 +12,5 @@
 // module.exports = {
 //   userName, age
 // }
+
+const name1 = 'naluwan'

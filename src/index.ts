@@ -16,9 +16,9 @@ import "./index.css";
 // console.log(all.userName);
 // console.log(all.age);
 // console.log(all.address);
-import data, { userName as name1, age, address } from './es6Module'
-console.log(data);
-console.log(name1, age, address);
+// import data, { userName as name1, age, address } from './es6Module'
+// console.log(data);
+// console.log(name1, age, address);
 
 
 
