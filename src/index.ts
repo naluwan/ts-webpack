@@ -7,6 +7,8 @@ import "./index.css";
 // CommonJS => Nodejs開發
 // const data = require('./commonJS')
 // console.log(data);
+import '@/utils/parsing'
+// import webpack from 'webpack'
 
 // ES6 ES Modules => js標準
 // as別名

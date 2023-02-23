@@ -19,8 +19,8 @@ function getData(data: Info2): Info2
 // }
 function getData(data: unknown): unknown {
   console.log()
-  if(typeof data === 'string') return []
-  if(typeof data === 'number') return 999
+  if (typeof data === 'string') return []
+  if (typeof data === 'number') return 999
   // 判斷 Info2
   // return 某個data
   return false
